@@ -1,0 +1,27 @@
+.bg_jumbotron_darkblue
+{
+    background-color: rgb(12 38 76) !important;
+}
+
+
+/* about page css */
+
+.bg_about_cont2_div
+{
+    background-color: #be6262
+}
+
+.bg_about_cont2_div_mid
+{
+    background-color: #6e3a3a
+}
+
+#contact_cont2 .left
+{
+    background-color: black;
+    height:320px
+}
+#contact_cont2 .right, #contact_cont2 .right p
+{
+    height:320px
+}
